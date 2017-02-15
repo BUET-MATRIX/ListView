@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">List View</string>
+
+    <string-array name="cars">
+        <item>TOYOTA</item>
+        <item>AUDI</item>
+        <item>FORD</item>
+        <item>ROLLS ROYCE</item>
+        <item>BUGATTI</item>
+
+    </string-array>
+</resources>
